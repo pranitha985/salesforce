@@ -2,3 +2,4 @@ start cmd
  add cmdcommit
  changes
 start cmd 1
+end command final test
