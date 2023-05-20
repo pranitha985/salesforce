@@ -1,1 +1,3 @@
 start cmd
+ add cmdcommit
+ changes
